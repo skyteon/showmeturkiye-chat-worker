@@ -1,0 +1,9 @@
+name = "show-me-turkiye-chat"
+main = "worker.js"
+compatibility_date = "2026-04-25"
+
+# Optional: bind a custom route to your domain
+# Uncomment and edit after first deploy works:
+# routes = [
+#   { pattern = "showmeturkiye.com/api/chat", zone_name = "showmeturkiye.com" }
+# ]
